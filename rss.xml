@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Model Airplanes]]></title>
         <description><![CDATA[Model Airplanes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/model-airplanes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 17:27:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Dec 2015 20:15:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/model-airplanes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Focke-Wulf Fw 190 Würger (English: Shrike) is a German single-seat, single-engine fighter aircraft designed by Kurt Tank in the late 1930s and widely used during World War II. Along with its well-known counterpart, the Messerschmitt Bf 109, the Fw 190 became the backbone of the Luftwaffe's Jagdwaffe (Fighter Force). The twin-row BMW 801 radial engine that powered most operational versions enabled the Fw 190 to lift larger loads than the Bf 109, allowing its use as a day fighter, fighter-bomber, ground-attack aircraft and, to a lesser degree, night fighter.</p>]]></description>
+            <link>http://warbirdsrestoration.com/shop/focke-wulf-190/focke-wulf-drawings/</link>
+            <guid isPermaLink="false">5e1c2a27-36a4-4c4d-ae2b-29da129ea879</guid>
+            <pubDate>Thu, 31 Dec 2015 20:15:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Post Title]]></title>
-            <description><![CDATA[<article><h1>Post Title</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dui eros, venenatis vel vestibulum id, viverra quis orci. Vestibulum at dolor ut erat imperdiet tincidunt ut a tortor. Vivamus justo dui, dictum in augue tempor, consequat interdum mi. Ut laoreet ligula ut mauris eleifend efficitur. Suspendisse tortor diam, imperdiet in mattis a, tempor nec arcu. Aenean eget pretium quam. Duis molestie tincidunt convallis. Fusce lobortis aliquam accumsan.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce818f71-ebf4-4012-ad3e-e9a8db2f0134.JPG"></article>]]></description>
-            <link>undefinedpost-title/index.html</link>
+            <description><![CDATA[<article><h1>Post Title</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dui eros, venenatis vel vestibulum id, viverra quis orci. Vestibulum at dolor ut erat imperdiet tincidunt ut a tortor. Vivamus justo dui, dictum in augue tempor, consequat interdum mi. Ut laoreet ligula ut mauris eleifend efficitur. Suspendisse tortor diam, imperdiet in mattis a, tempor nec arcu. Aenean eget pretium quam. Duis molestie tincidunt convallis. Fusce lobortis aliquam accumsan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f32a947a6d9a4cf411c183e4abb08cefe60d4cc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/model-airplanes/post-title/index.html</link>
             <guid isPermaLink="false">aa580485-d489-4a89-944b-460dbf4a431a</guid>
             <pubDate>Thu, 31 Dec 2015 17:27:01 GMT</pubDate>
         </item>
