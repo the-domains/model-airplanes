@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Model Airplanes]]></title>
+        <description><![CDATA[Model Airplanes]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 31 Dec 2015 17:27:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Post Title]]></title>
+            <description><![CDATA[<article><h1>Post Title</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dui eros, venenatis vel vestibulum id, viverra quis orci. Vestibulum at dolor ut erat imperdiet tincidunt ut a tortor. Vivamus justo dui, dictum in augue tempor, consequat interdum mi. Ut laoreet ligula ut mauris eleifend efficitur. Suspendisse tortor diam, imperdiet in mattis a, tempor nec arcu. Aenean eget pretium quam. Duis molestie tincidunt convallis. Fusce lobortis aliquam accumsan.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce818f71-ebf4-4012-ad3e-e9a8db2f0134.JPG"></article>]]></description>
+            <link>undefinedpost-title/index.html</link>
+            <guid isPermaLink="false">aa580485-d489-4a89-944b-460dbf4a431a</guid>
+            <pubDate>Thu, 31 Dec 2015 17:27:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
