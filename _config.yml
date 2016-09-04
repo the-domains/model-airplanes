@@ -1,19 +1,4 @@
-name: Model Airplanes
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.49819
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,23 @@ color:
   lightness: 0.8619404889177531
   saturation: 0.2166902932804078
   rhythmicContrast: 0.8178687018807977
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Model Airplanes
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Warbird Blueprints
+    url: 'http://warbirdsrestoration.com'
+    type: external
+favicon: null
 purpose: []
